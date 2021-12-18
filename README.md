@@ -1,0 +1,3 @@
+# SNAKE-WATER-GUN game
+# its fun
+#you s and comp g then gun shoot the snake and comp win and you lost...you snake and computer w then you win and computer loose....you s and comp s then draw....
